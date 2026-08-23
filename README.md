@@ -69,12 +69,11 @@ Five interconnected datasets were used:
 
 I built an interactive Tableau dashboard to visualize churn patterns and communicate insights effectively.
 
-### Dashboard Screenshots![Uploading dashoard s.PNG…]()
+### Dashboard Screenshots!
 
 
 **Main Dashboard Overview**
-<img width="1658" height="832" alt="image" src="https://github.com/user-attachments/assets/8703f4bb-b7a8-4873-b54c-cda1699f150e" />
-
+<img width="1593" height="789" alt="image" src="https://github.com/user-attachments/assets/5b9c49b5-6299-4b3a-96e1-f08fd0ce055f" />
 
 **Churn Rate by Tenure Group**
 <img width="1452" height="767" alt="image" src="https://github.com/user-attachments/assets/1bed832c-0cde-4da8-9c22-872ded27dc10" />
