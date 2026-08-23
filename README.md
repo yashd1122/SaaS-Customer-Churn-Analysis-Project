@@ -69,23 +69,25 @@ Five interconnected datasets were used:
 
 I built an interactive Tableau dashboard to visualize churn patterns and communicate insights effectively.
 
-### Dashboard Screenshots
+### Dashboard Screenshots![Uploading dashoard s.PNG…]()
+
 
 **Main Dashboard Overview**
 <img width="1658" height="832" alt="image" src="https://github.com/user-attachments/assets/8703f4bb-b7a8-4873-b54c-cda1699f150e" />
 
 
 **Churn Rate by Tenure Group**
-<img width="790" height="724" alt="image" src="https://github.com/user-attachments/assets/2e1aef5d-1b0f-4b55-921f-d82ba74b94a4" />
+<img width="1452" height="767" alt="image" src="https://github.com/user-attachments/assets/1bed832c-0cde-4da8-9c22-872ded27dc10" />
 
 
 **Average Tenure - Active vs Churned**
-<img width="1452" height="727" alt="image" src="https://github.com/user-attachments/assets/1f732098-7f78-4fe7-b6e5-31be1d8f046d" />
+<img width="1440" height="778" alt="image" src="https://github.com/user-attachments/assets/1121d932-7924-4252-b8b2-8d6df68ad0d9" />
 
 
 
 **Average Feature Usage - Active vs Churned**
-<img width="616" height="731" alt="image" src="https://github.com/user-attachments/assets/e2067544-5375-4bfd-9951-8ebb71f8a251" />
+<img width="1446" height="774" alt="image" src="https://github.com/user-attachments/assets/7caac5ed-95a6-486e-a955-62c9aaabde87" />
+
 
 
 ### Key Takeaways from Dashboard
